@@ -12,7 +12,7 @@
 1. Because it provides the necessary syntax and utility for programmers day to day work.
 2. Because it is simple to edit through things like Github.
 
-''' { <!DOCTYPE html>
+``` { <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -26,4 +26,4 @@
     </p> 
   </body> 
 </html> 
-'''
+```
