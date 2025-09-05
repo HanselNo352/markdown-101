@@ -1,6 +1,6 @@
 ## Noah Hansel
 ### PM
--------------------
+---
 | Class Name       | Teacher             |
 |------------------|---------------------|
 | Technology 1       | Papineau            |
