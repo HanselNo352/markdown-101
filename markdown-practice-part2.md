@@ -26,4 +26,5 @@
 ---
 [Learn about web design on the MDN site](https://developer.mozilla.org/en-US/)
 ---
-![Sun Shining on International Space Station](spacestation
+![Sun Shining on International Space Station](spacestation.jpg)
+---
