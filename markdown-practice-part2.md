@@ -1,18 +1,12 @@
 ## Noah Hansel
 ### PM
 ---
-| Class Name | Teacher |
-| ----------- | ----------- |
-| Tech 1 | Papineau |
-| Financial Math | Neff |
-| W&A Dev | Provencher
-| ELA | Kuhn|
 
 ### Reasons programmers use markdown
 1. Because it provides the necessary syntax and utility for programmers day to day work.
-2. Because it is simple to edit through things like Github.
+2. Because it is simple to edit through services like Github.
 
-``` { <!DOCTYPE html>
+```html { <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
